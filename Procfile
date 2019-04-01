@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT harto_1852.wsgi:application
